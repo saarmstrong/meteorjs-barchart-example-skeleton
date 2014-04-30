@@ -81,23 +81,21 @@ if (Meteor.isClient) {
 
                 }
 
-                // 5) Get the list of Foods sorted by name, and map results to possible colors
+                // 5) Get the list of Foods
 
                 // 6) Map the foods to the possible colors (up to 20 different colors)
 
-                // 7) Get list of foods sorted by vote count 
+                // 7) Map results to the x & y domain of the chart
 
-                // 8) Map results to the x & y domain of the chart
-
-                // 9) Binding - Bind the food data
+                // 8) Binding - Bind the food data
             
-                // 10) Select the chart bar elements
+                // 9) Select the chart bar elements
 
-                // 11) Select the chart bar labels
+                // 10) Select the chart bar labels
 
-                // 12) Create a bar element for each food item
+                // 11) Create a bar element for each food item
 
-                // 13) Create a label (Name + Vote count) for each food item
+                // 12) Create a label (Name + Vote count) for each food item
 
             });
 
